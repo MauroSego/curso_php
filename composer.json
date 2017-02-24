@@ -1,0 +1,17 @@
+{
+    "name": "maurosego/php-laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MauroSego",
+            "email": "mauro.segovia.7@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PlatziPHP\\": "src/"
+        }
+    }
+}
