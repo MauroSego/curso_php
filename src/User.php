@@ -18,7 +18,7 @@ class User {
   protected $firstName;
   /**
   * @type string
-  */
+  **/
   protected $lastName;
 
   public function __construct($email, $password){
@@ -36,7 +36,7 @@ class User {
 
   /**
   * @return string $firstName
-  */
+  **/
 
   public function getFirstName(){
   	return $this->firstName;
